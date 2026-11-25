@@ -1,6 +1,6 @@
 # Sangkuriang Tech
 
-**Software House & IT Consulting — Karawang, West Java, Indonesia**
+**Software House & IT Consulting Karawang, West Java, Indonesia**
 
 *Building Digital Excellence with Precision since 2022*
 
