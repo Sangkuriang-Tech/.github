@@ -6,7 +6,7 @@
 
 - **Website:** http://sangkuriang.tech/
 - **Portfolio:** http://sangkuriang.tech/portfolio
-- **Email:** admin@sangkuriang.tech
+- **Email:** hello@sangkuriang.tech
 - **Instagram:** [@sangkuriangtech](https://www.instagram.com/sangkuriangtech)
 - **LinkedIn:** [Sangkuriang Tech](https://www.linkedin.com/company/sangkuriang-tech)
 
